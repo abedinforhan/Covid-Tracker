@@ -4,6 +4,9 @@ is a web based application for tracking daily covid19 cases.
 
 Live Site:  **[Volunteer network]( https://abedinforhan.github.io/Covid-Tracker/index.html)**. 
 
+### Live Demo: ![Covid Tracker](/covid.gif "Covid Tracker")
+
+##
 ## Language,Technology and library/framework used: 
 - Html5
 - CSS 
